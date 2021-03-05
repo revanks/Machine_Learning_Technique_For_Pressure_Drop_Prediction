@@ -2,11 +2,11 @@
 
 ### Two Phase Pressure drop in a straight horizontal pipe
 
-![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/tree/main/Images)
+![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/blob/main/Images/5.PNG)
 
 Image Credit: Mudawar et. al.
 
-##Motivation
+## Motivation
 
 - Two-phase pressure drop prediction of refrigerant fluids is very essential in many cooling application. In the past many decades thermal system design engineers solely relied on many empirical and semi-empirical pressure drop models which are developed for specific fluids and narrow range of operating conditions, this makes prediction accuracy poorer.
 
