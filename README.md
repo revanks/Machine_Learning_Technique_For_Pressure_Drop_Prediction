@@ -18,14 +18,16 @@ Image Credit: Mudawar et. al.
 
 ### Two Phase Heat Transfer in a straight horizontal pipe
 
+
 ![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/blob/main/Images/1.PNG)
+
 
 ![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/blob/main/Images/2.PNG)
 
 Image Credit: Mudawar et. al.
 
 ## Methods
-- More than 100+ experimental two-phase pressure drop data is taken from the literature with features- mass flux, vapor quality, pipe diameter, saturation pressure and saturation temperature. 
+- More than 1000+ experimental two-phase pressure drop data is taken from the literature with features- mass flux, vapor quality, pipe diameter, saturation pressure and saturation temperature. 
 
 - Three different ANN, RFR and XGBR models trained with 22 input features to predict output pressure gradient. 
 
