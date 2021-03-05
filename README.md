@@ -15,6 +15,8 @@ Image Credit: Mudawar et. al.
 
 ### Two Phase Heat Transfer in a straight horizontal pipe
 
+![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/blob/main/Images/6.PNG)
+
 ![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/blob/main/Images/1.PNG)
 
 ![](https://github.com/revanks/Machine_Learning_Technique_For_Pressure_Drop_Prediction/blob/main/Images/2.PNG)
