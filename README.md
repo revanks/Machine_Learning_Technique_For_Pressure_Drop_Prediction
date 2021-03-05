@@ -32,4 +32,4 @@ Image Credit: Mudawar et. al.
 - Three different ANN, RFR and XGBR models trained with 22 input features to predict output pressure gradient. 
 
 ## Conclusion
--Among ANN, RFR, and XGBR, It is concluded that the application of ANN is very powerful tool when it comes to accurate of prediction two-phase thermo-hydraulics of refrigerant pipes.
+- Among ANN, RFR, and XGBR, It is concluded that the application of ANN is very powerful tool when it comes to accurate of prediction two-phase thermo-hydraulics of refrigerant pipes.
